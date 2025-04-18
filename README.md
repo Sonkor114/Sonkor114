@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋!I'm Abdinour A Muktar and I'm A passionate frontend developer</h2>
+<h2 align="left">Hi 👋! I'm Abdinour A Muktar and I'm A passionate frontend developer</h2>
 
 ###
 - 🔭 I’m currently working on **Delivery app for js**
