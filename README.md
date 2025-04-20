@@ -10,9 +10,8 @@
        height="35" alt="LinkedIn Logo">
 </a>
  
-  <a href="https://x.com/abdinoursonkor1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
+[![X (Twitter)](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/abdinoursonkor1)
+
   
 </div>
 
