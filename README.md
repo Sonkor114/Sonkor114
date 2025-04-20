@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/abdinour-ahmed-muktar-61b321287/)
 
  
-[![X (Twitter)](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/abdinoursonkor1)
+[![X (Twitter)](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/abdinoursonkor1)
 
   
 </div>
